@@ -2,8 +2,9 @@
 Credit Card Financial Weekly Dashboard Report, designed to provide real-time insights into critical performance metrics and trends in credit card operations. This dashboard empowers stakeholders to monitor and analyze credit card operations effectively for informed decision-making.
 Tools Used:-
 1. Microsoft Power BI
-2. Data sources (MySQL, Excel
-🔍 Data Sourcing from SQL: Harnessing the power of SQL, this dashboard fetches data seamlessly from the SQL database. Automatic updates ensure the dashboard always reflects the latest information, enabling timely and accurate decision-making. 
+2. Data sources (MySQL, Excel)
+🔍
+ Data Sourcing from SQL: Harnessing the power of SQL, this dashboard fetches data seamlessly from the SQL database. Automatic updates ensure the dashboard always reflects the latest information, enabling timely and accurate decision-making. 
 💡 Data Processing with DAX: Robust data processing techniques and DAX queries are implemented to calculate weekly metrics and trends. New columns and calculations streamline data analysis, providing a comprehensive view of credit card performance. 
 Dashboard Features:
 1.	Credit Card Transaction Report: Drive into transaction insights with interactive KPIs and graphs, showcasing revenue by income, Job, Use Chip, education, and weekly trends.
